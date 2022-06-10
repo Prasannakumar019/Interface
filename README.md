@@ -4,7 +4,23 @@
   To write a C# program using interface concept
 
 ## Algorithm:
+## Step 1:
+Create an interface.
 
+## Step 2:
+Create a child class.
+
+## Step 3:
+Declare 2 functions deposit() and withdrawal() as abstract methods in the interface.
+
+## Step 4:
+Create those 2 functions in the child class and perform respective operation.
+
+## Step 5:
+Use while loop and and switch case to Get the choice from the user whether to perform withdrawal or deposit operation.
+
+## Step 5:
+After performing the functions display the remaining balance of the user.
 
 ## Program:
 ```
